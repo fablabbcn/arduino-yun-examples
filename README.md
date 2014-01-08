@@ -1,4 +1,5 @@
-arduino-yun-examples
+Arduino Yun Examples
 ====================
 
-Examples for the new Arduino Yun
+This repository contains code examples from things we do with the [Arduino Yún](http://arduino.cc/en/Main/ArduinoBoardYun).
+
